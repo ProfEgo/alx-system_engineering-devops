@@ -1,2 +1,3 @@
 #!/bin/bash 
- info on she basic commands
+info on basic shell command 
+
