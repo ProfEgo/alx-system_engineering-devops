@@ -1,1 +1,3 @@
-info on software enginnering development
+#!/bin/bash 
+info into system engineering 
+
