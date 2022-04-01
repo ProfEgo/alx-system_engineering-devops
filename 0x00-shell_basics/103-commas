@@ -1,5 +1,2 @@
 #!/bin/bash
-ls -a /*, ./*, ../*, [:digit:]*, [:alpha:]*, \n*
-ls -a {/*,./*,../*,[:digit:]*,[:alpha:]*} \n*
-ls -a {/*,./*,../*,[:digit:]*,[:alpha:]*,\n*}
-ls -a {/*,./*,../*,[:digit:]*,[:alpha:]*}
+ls -a /*,./*,../*,[:digit:]*,[:alpha:]*,\n*
