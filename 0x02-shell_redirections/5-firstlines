@@ -1,0 +1,2 @@
+#!/vi/bin/bash
+cat /etc/passwd | head -n 10
